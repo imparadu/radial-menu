@@ -1,0 +1,7 @@
+border la imagini
+
+efecte
+  - button X - rotate 90degree on click/ on hover
+  - mousein - mouseleave imagini
+
+functionalitate on click pentru fiecare imagine
